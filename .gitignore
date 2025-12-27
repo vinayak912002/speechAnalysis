@@ -1,1 +1,4 @@
 LJSpeech-1.1/
+archive/
+pretrained_models/
+wav2vec2_checkpoints/
